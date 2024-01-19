@@ -15,8 +15,6 @@
   </a>
 </p>
 
-
-- 🔭 I’m currently working on grow professionally
 - 🌱 I’m currently learning technical tools for data analysis
 - 👯 I’m looking to collaborate on projects with new technologies
 - 💬 Ask me about Data Analysis, Cybersecurity  and Business
